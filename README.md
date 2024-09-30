@@ -9,26 +9,19 @@ EfficientNet.ipynb
 InceptionV3.ipynb
 
 ## Системные характеристики ПК:
-OS: Windows 10 Pro
-GPU: NVIDIA RTX 4060
-CPU: i5 12400F
-RAM: 16 GB
+OS: | Windows 10 Pro
+GPU: | NVIDIA RTX 4060
+CPU: |i5 12400F
+RAM: | 16 GB
 
 ## Пакеты использованные для обучения: 
 python 3.7
 
 NVIDIA DRIVER
-+-----------------------------------------------------------------------------------------+
-| NVIDIA-SMI 560.94                 Driver Version: 560.94         CUDA Version: 12.6     |
-|-----------------------------------------+------------------------+----------------------+
-| GPU  Name                  Driver-Model | Bus-Id          Disp.A | Volatile Uncorr. ECC |
-| Fan  Temp   Perf          Pwr:Usage/Cap |           Memory-Usage | GPU-Util  Compute M. |
-|                                         |                        |               MIG M. |
-|=========================================+========================+======================|
-|   0  NVIDIA GeForce RTX 4060      WDDM  |   00000000:01:00.0  On |                  N/A |
-|  0%   41C    P8             N/A /  115W |    7182MiB /   8188MiB |      1%      Default |
-|                                         |                        |                  N/A |
-+-----------------------------------------+------------------------+----------------------+
+
+NVIDIA-SMI 560.94                | Driver Version: 560.94         | CUDA Version: 12.6 |
+
+
 
 | Package                      | Version            |
 |------------------------------|--------------------|
