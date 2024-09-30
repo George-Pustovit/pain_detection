@@ -4,15 +4,17 @@
 Practice_v2.0.ipynb - извлечение данных из эксперимента 3 () https://osf.io/bsv86/ 
 
 ## CNN для обучения 
-VGG16.ipynb
-EfficientNet.ipynb
-InceptionV3.ipynb
+|VGG16.ipynb|
+|EfficientNet.ipynb|
+|InceptionV3.ipynb|
 
 ## Системные характеристики ПК:
-OS: | Windows 10 Pro
-GPU: | NVIDIA RTX 4060
-CPU: |i5 12400F
-RAM: | 16 GB
+| Type                     | Name        |
+|------------------------------|--------------------|
+|OS: | Windows 10 Pro|
+|GPU: | NVIDIA RTX 4060|
+|CPU: |i5 12400F|
+|RAM: | 16 GB|
 
 ## Пакеты использованные для обучения: 
 python 3.7
