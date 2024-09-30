@@ -1,7 +1,7 @@
 # Pain detection using EMG,EEG,ECG signals
 
 ## Последняя версия practice 30.09.2024
-Practice_v2.0.ipynb - извлечение данных из эксперимента 3 () https://osf.io/bsv86/ 
+Practice_v2.0.ipynb - извлечение данных из эксперимента 3  https://osf.io/bsv86/ 
 
 ## CNN для обучения 
 |VGG16.ipynb|
